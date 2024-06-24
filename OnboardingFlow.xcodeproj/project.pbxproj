@@ -11,6 +11,7 @@
 		EC7C81172C29C632001C15AB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7C81162C29C632001C15AB /* ContentView.swift */; };
 		EC7C81192C29C633001C15AB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7C81182C29C633001C15AB /* Assets.xcassets */; };
 		EC7C811D2C29C633001C15AB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC7C811C2C29C633001C15AB /* Preview Assets.xcassets */; };
+		EC7C81242C29C691001C15AB /* WelcomePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC7C81232C29C691001C15AB /* WelcomePage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EC7C81182C29C633001C15AB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC7C811A2C29C633001C15AB /* OnboardingFlow.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = OnboardingFlow.entitlements; sourceTree = "<group>"; };
 		EC7C811C2C29C633001C15AB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EC7C81232C29C691001C15AB /* WelcomePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomePage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				EC7C81142C29C632001C15AB /* OnboardingFlowApp.swift */,
 				EC7C81162C29C632001C15AB /* ContentView.swift */,
+				EC7C81232C29C691001C15AB /* WelcomePage.swift */,
 				EC7C81182C29C633001C15AB /* Assets.xcassets */,
 				EC7C811A2C29C633001C15AB /* OnboardingFlow.entitlements */,
 				EC7C811B2C29C633001C15AB /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC7C81242C29C691001C15AB /* WelcomePage.swift in Sources */,
 				EC7C81172C29C632001C15AB /* ContentView.swift in Sources */,
 				EC7C81152C29C632001C15AB /* OnboardingFlowApp.swift in Sources */,
 			);
